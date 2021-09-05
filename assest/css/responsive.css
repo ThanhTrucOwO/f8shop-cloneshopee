@@ -148,4 +148,7 @@
         display: block;
         padding: 2px 8px;
     }
+    .header__cart-list::after {
+        right: 11px;
+    }
 }
